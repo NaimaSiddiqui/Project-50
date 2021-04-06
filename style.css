@@ -1,0 +1,30 @@
+.header{
+    
+    background-color: blueviolet;
+    
+}
+ body{
+     background-color: burlywood;
+ }
+
+
+.menu {
+    display: flex;
+    justify-content:space-between;
+   font-family: Arial;
+   font-size: 20px;
+   color: cornsilk;
+}
+
+.grid{
+    display: flex;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    background-color: darkgrey;
+    border-radius:40px;
+}
